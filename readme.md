@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ritu-yadav-853872220/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:ritu.work04@gmail.com">
@@ -209,7 +209,7 @@ I’m interested in opportunities related to:
 
 📧 **Email:** ritu.work04@gmail.com
 
-🔗 **LinkedIn:** YOUR_LINKEDIN_URL
+🔗 **LinkedIn:** https://www.linkedin.com/in/ritu-yadav-853872220/
 
 ---
 
