@@ -17,15 +17,15 @@
 
 ## 🚀 About Me
 
-I’m a **Data Analyst with 1+ year of experience** in SQL, Python, Power BI, Excel, and Google Workspace, specializing in **data cleaning, ETL, KPI reporting, and dashboard development.**
+I’m a **Logistics & Data Analyst with 1+ year of experience** in SQL, Python, Power BI, Excel, and Google Workspace, specializing in **data cleaning, ETL, KPI reporting, and dashboard development.**
 
 My experience includes working with **large, multi-source datasets**, identifying anomalies, standardizing metrics, developing reporting solutions, and translating business requirements into actionable insights.
 
-At **Tech Mahindra**, I supported logistics and reporting analytics for **TELUS and Lowe's**, analyzing 500,000+ records and developing Power BI and KPI reporting solutions. I also automated KPI reporting, reducing manual reporting effort by **40%** and turnaround time by **20%**.
+At **Tech Mahindra**, I supported backend B2B logistics and supply chain operations for **TELUS and Lowe’s**, managing daily service requests, SLA tracking, and Excel-based reporting. I also automated KPI reporting using Power Query, Power Pivot, and VBA, saving **5–7 hours per week** in manual effort.
 
-At **Excelerate**, I worked on compliance and admissions analytics, cleaning and integrating **34,341 applicant records into 6,893 validated profiles** and developing dashboards for applicant progression, I-20 compliance, and SEVIS fee tracking.
+At **Excelerate**, I supported compliance and admissions analytics, cleaning **34,341 applicant records into 6,893 validated profiles** using PostgreSQL and Excel. I also identified I-20 compliance gaps, flagged **3,962 priority cases**, and developed Tableau dashboards tracking high-risk applicants and unpaid visa-fee cases.
 
-I’m particularly interested in **Data Analytics, Business Intelligence, Customer Analytics, CRM Analytics, KPI Reporting, and solving real-world business problems with data.**
+I’m particularly interested in **MIS, Data Analytics, Logistics Analytics, Business Intelligence, CRM Analytics, KPI Reporting, and solving real-world business problems with data.**
 
 ---
 
@@ -34,22 +34,21 @@ I’m particularly interested in **Data Analytics, Business Intelligence, Custom
 ### **Data Analyst — Logistics & Reporting**
 **Tech Mahindra** | *Jul 2023 – Aug 2024* | Noida, India
 
-- 📊 Built **Power BI dashboards and KPI reports** for TELUS and Lowe's stakeholders, providing SLA-compliant visibility into cross-sell and engagement performance.
-- 🔎 Analyzed **500,000+ records using SQL and Python** to support senior analysts and Supply Chain Analytics decision-making.
-- ⚙️ Reduced **manual reporting effort by 40%** and **turnaround time by 20%** by automating KPI reporting using Power BI and advanced Excel.
-- 🧹 Protected data integrity by identifying anomalies, cleaning datasets, and standardizing metric definitions across multiple data sources.
-- 🤝 Translated business requirements into actionable metrics and documented reporting logic for stakeholders.
-- 🚀 Optimized ETL workflows and data preparation processes to improve accuracy and consistency across concurrent projects.
+- 📩 Resolved **20–30 daily emails and tickets** for Lowe’s, achieving **95% SLA compliance** and minimizing backlogs and escalations.
+- 📊 Delivered daily and weekly Excel reports for Lowe’s and TELUS using **Power Query, Power Pivot, and VBA macros**, saving **5–7 hours per week**.
+- 🔎 Monitored **25+ active and inactive accounts** using SQL, INDEX/MATCH, and Item Manager, maintaining **3 Power BI dashboards** for 4 managers.
+- 🧹 Identified **10–15 data errors weekly** and maintained item, order, and account records with **95% first-pass accuracy**.
+- 🤝 Coordinated **3 cross-functional teams** and tracked operational tasks in Zoho to support compliant workflows and smooth handovers.
 
 ---
 
 ### **Data Analyst Associate Intern**
 **Excelerate** | *Mar 2026 – Jun 2026* | Remote
 
-- 🗃️ Cleaned and integrated **34,341 applicant records into 6,893 validated profiles** using PostgreSQL ETL and MS Excel.
-- 🔍 Identified an **82% vs. 0.025% I-20 issuance gap** between assigned and unassigned applicants, exposing **3,962 high-priority cases**.
-- 📊 Developed an interactive **Tableau dashboard** monitoring applicant progression, I-20 compliance, and SEVIS fee status.
-- ⚠️ Enabled proactive tracking of **1,924 high-risk cases** and **750 unpaid visa-fee cases** before deadlines.
+- 🗃️ Cleaned **34,341 applicant records into 6,893 validated profiles** using PostgreSQL and Excel, strengthening data reliability for compliance reporting.
+- 🔍 Identified an **82% vs. 0.025% I-20 issuance gap** between assigned and unassigned applicants, flagging **3,962 priority cases** for follow-up.
+- 📊 Developed a **Tableau dashboard** to monitor applicant progression, I-20 compliance, and SEVIS fee status.
+- ⚠️ Enabled proactive risk monitoring by tracking **1,924 high-risk cases** and **750 unpaid visa-fee cases** to support timely follow-ups.
 
 ---
 
@@ -87,6 +86,7 @@ I’m particularly interested in **Data Analytics, Business Intelligence, Custom
 
 ## 🌱 Currently Strengthening
 
+- Advanced Excel for data analysis, reporting, automation, PivotTables, Power Query, Power Pivot, and VBA macros
 - Advanced SQL for data analysis and optimization
 - Power BI, DAX, and dashboard development
 - Python for data analysis and automation
@@ -166,6 +166,12 @@ I’m particularly interested in **Data Analytics, Business Intelligence, Custom
 - FastAPI
 - Google Workspace
 - VS Code
+- Zoho
+- GEM
+- WebGEM & BlueWebGEM
+- LMS (SPR)
+- Lowe’s Seller
+- Item Manager
 
 ---
 
