@@ -31,7 +31,7 @@ I’m particularly interested in **MIS, Data Analytics, Logistics Analytics, Bus
 
 ## 💼 Professional Experience
 
-### **Data Analyst — Logistics & Reporting**
+### **Logistics and Supply Chain Analyst**
 **Tech Mahindra** | *Jul 2023 – Aug 2024* | Noida, India
 
 - 📩 Resolved **20–30 daily emails and tickets** for Lowe’s, achieving **95% SLA compliance** and minimizing backlogs and escalations.
